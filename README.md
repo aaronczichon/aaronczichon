@@ -2,11 +2,11 @@
 
 My name is Aaron Czichon.
 
-💻 I'm currently working at @PlanBGmbH as an Solution Expert.    
+💻 I'm currently working at [PlanB. GmbH](https://github.com/planbgmbh) as an Solution Expert.    
 🛠 My focus is on web technologies like NodeJS, Web Components, Angular, VueJS, Ionic, Capacitor and many more.    
 🦜Just reach me out and let's have a chat!
 
-💡 Hint: I just changed my Github username from @inoverse to my real name @aaronczichon!   
+💡 Hint: I just changed my Github username from `inoverse` to my real name `aaronczichon`!   
 🔐 -> Same also applies for my Twitter account [@aaronczichon](https://twitter.com/aaronczichon)
 
 <!--
