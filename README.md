@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Aaron Czichon.
+
+💻 I'm currently working at @PlanBGmbH as an Solution Expert.    
+🛠 My focus is on web technologies like NodeJS, Web Components, Angular, VueJS, Ionic, Capacitor and many more.    
+🦜Just reach me out and let's have a chat!
+
+💡 Hint: I just changed my Github username from @inoverse to my real name @aaronczichon!   
+🔐 -> Same also applies for my Twitter account [@aaronczichon](https://twitter.com/aaronczichon)
+
 <!--
 **aaronczichon/aaronczichon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
