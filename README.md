@@ -6,8 +6,10 @@ My name is Aaron Czichon.
 🛠 My focus is on web technologies like NodeJS, Web Components, Angular, VueJS, Ionic, Capacitor and many more.    
 🦜Just reach me out and let's have a chat!
 
-💡 Hint: I just changed my Github username from `inoverse` to my real name `aaronczichon`!   
-🔐 -> Same also applies for my Twitter account [@aaronczichon](https://twitter.com/aaronczichon)
+📝 My latest blog posts
+* [I want to love Windows, but... - 01/2021](https://aaronczichon.de/blog/i-want-to-love-windows-but/)
+* [Zoom DOM elements with CSS - 12/2020](https://aaronczichon.de/blog/zoom-dom-elements-with-css/)
+* [How to use JSON.stringify - 09/2020](https://aaronczichon.de/blog/how-to-use-json.stringif/)
 
 <!--
 **aaronczichon/aaronczichon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
