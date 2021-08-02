@@ -13,6 +13,7 @@ My name is Aaron Czichon.
 
 📚 Some of my latest books I've read
 <!-- GOODREADS-LIST:START -->
+- [Just Like You](https://www.goodreads.com/review/show/4145441992?utm_medium=api&utm_source=rss) by Nick Hornby (⭐️3.38)
 <!-- GOODREADS-LIST:END -->
 
 <!--
