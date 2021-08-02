@@ -15,7 +15,7 @@ My name is Aaron Czichon.
 <!-- GOODREADS-LIST:START -->
 - [Der Letzte seiner Art](https://www.goodreads.com/review/show/4096436099?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️3.66)
 - [Wir Sind Götter (Bobiverse, #2)](https://www.goodreads.com/review/show/4039051734?utm_medium=api&utm_source=rss) by Dennis E. Taylor (⭐️4.25)
-- [Herr aller Dinge](https://www.goodreads.com/review/show/3958092090?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️4.26)
+- [Herr aller Dinge](https://www.goodreads.com/review/show/3958092090?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️4.27)
 <!-- GOODREADS-LIST:END -->
 
 <!--
