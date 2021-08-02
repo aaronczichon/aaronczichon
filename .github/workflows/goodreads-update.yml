@@ -1,0 +1,17 @@
+name: Latest books
+on:
+  schedule:
+    # Run it every hour once
+    - cron: "0 * * * *"
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update the Readme file
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: zwacky/goodreads-profile-workflow@main
+        with:
+          # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
+          goodreads_user_id: "53478182"
+          shelf: "currently-reading"
