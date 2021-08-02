@@ -11,6 +11,10 @@ My name is Aaron Czichon.
 * [Zoom DOM elements with CSS - 12/2020](https://aaronczichon.de/blog/zoom-dom-elements-with-css/)
 * [How to use JSON.stringify - 09/2020](https://aaronczichon.de/blog/how-to-use-json.stringif/)
 
+📚 Some of my latest books I've read
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
 <!--
 **aaronczichon/aaronczichon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
