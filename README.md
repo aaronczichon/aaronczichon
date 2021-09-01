@@ -14,7 +14,7 @@ My name is Aaron Czichon.
 📚 Some of my latest books I've read
 <!-- GOODREADS-LIST:START -->
 - [Eine Billion Dollar](https://www.goodreads.com/review/show/4153818301?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️4.12)
-- [Wir Sind Götter (Bobiverse, #2)](https://www.goodreads.com/review/show/4039051734?utm_medium=api&utm_source=rss) by Dennis E. Taylor (⭐️4.24)
+- [Wir Sind Götter (Bobiverse, #2)](https://www.goodreads.com/review/show/4039051734?utm_medium=api&utm_source=rss) by Dennis E. Taylor (⭐️4.25)
 - [Der Letzte seiner Art](https://www.goodreads.com/review/show/4096436099?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️3.66)
 <!-- GOODREADS-LIST:END -->
 
