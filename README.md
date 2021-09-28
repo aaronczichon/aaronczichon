@@ -13,9 +13,9 @@ My name is Aaron Czichon.
 
 📚 Some of my latest books I've read
 <!-- GOODREADS-LIST:START -->
-- [Just Like You](https://www.goodreads.com/review/show/4145441992?utm_medium=api&utm_source=rss) by Nick Hornby (⭐️3.37)
-- [Eine Billion Dollar](https://www.goodreads.com/review/show/4153818301?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️4.12)
-- [Wir Sind Götter (Bobiverse, #2)](https://www.goodreads.com/review/show/4039051734?utm_medium=api&utm_source=rss) by Dennis E. Taylor (⭐️4.25)
+- [Der Letzte seiner Art](https://www.goodreads.com/review/show/4096436099?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️3.66)
+- [Die Toten Hosen - Am Anfang war der Lärm](https://www.goodreads.com/review/show/3857739016?utm_medium=api&utm_source=rss) by Philipp Oehmke (⭐️3.94)
+- [Conversations with Friends](https://www.goodreads.com/review/show/3857737996?utm_medium=api&utm_source=rss) by Sally Rooney (⭐️3.83)
 <!-- GOODREADS-LIST:END -->
 
 <!--
