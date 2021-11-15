@@ -13,9 +13,6 @@ My name is Aaron Czichon.
 
 📚 Some of my latest books I've read
 <!-- GOODREADS-LIST:START -->
-- [Der Letzte seiner Art](https://www.goodreads.com/review/show/4096436099?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️3.66)
-- [Die Toten Hosen - Am Anfang war der Lärm](https://www.goodreads.com/review/show/3857739016?utm_medium=api&utm_source=rss) by Philipp Oehmke (⭐️3.95)
-- [Conversations with Friends](https://www.goodreads.com/review/show/3857737996?utm_medium=api&utm_source=rss) by Sally Rooney (⭐️3.83)
 <!-- GOODREADS-LIST:END -->
 
 <!--
