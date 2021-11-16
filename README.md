@@ -21,7 +21,7 @@ My name is Aaron Czichon.
 - [Der Thron der Sieben Königreiche (Das Lied von Eis und Feuer, #3)](https://www.goodreads.com/review/show/2181741018?utm_medium=api&utm_source=rss) by George R.R. Martin (⭐️4.39)
 - [Der Morgen davor und das Leben danach](https://www.goodreads.com/review/show/4233087236?utm_medium=api&utm_source=rss) by Ann Napolitano (⭐️4.12)
 - [Just Like You](https://www.goodreads.com/review/show/4145441992?utm_medium=api&utm_source=rss) by Nick Hornby (⭐️3.36)
-- [An Ugly Truth: Inside Facebook's Battle for Domination](https://www.goodreads.com/review/show/4279662350?utm_medium=api&utm_source=rss) by Sheera Frenkel (⭐️4.05)
+- [An Ugly Truth: Inside Facebook's Battle for Domination](https://www.goodreads.com/review/show/4279662350?utm_medium=api&utm_source=rss) by Sheera Frenkel (⭐️4.04)
 - [Der Elfenpakt](https://www.goodreads.com/review/show/2147135155?utm_medium=api&utm_source=rss) by Herbie Brennan (⭐️3.89)
 <!-- GOODREADS-LIST:END -->
 
