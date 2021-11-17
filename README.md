@@ -16,13 +16,13 @@ My name is Aaron Czichon.
 - [Der Letzte seiner Art](https://www.goodreads.com/review/show/4096436099?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️3.66)
 - [Die Toten Hosen - Am Anfang war der Lärm](https://www.goodreads.com/review/show/3857739016?utm_medium=api&utm_source=rss) by Philipp Oehmke (⭐️3.95)
 - [Conversations with Friends](https://www.goodreads.com/review/show/3857737996?utm_medium=api&utm_source=rss) by Sally Rooney (⭐️3.83)
+- [Der Elfenpakt](https://www.goodreads.com/review/show/2147135155?utm_medium=api&utm_source=rss) by Herbie Brennan (⭐️3.89)
 - [Wir Sind Götter (Bobiverse, #2)](https://www.goodreads.com/review/show/4039051734?utm_medium=api&utm_source=rss) by Dennis E. Taylor (⭐️4.23)
 - [Die Herren von Winterfell (Das Lied von Eis und Feuer, #1)](https://www.goodreads.com/review/show/2100383203?utm_medium=api&utm_source=rss) by George R.R. Martin (⭐️4.24)
 - [Der Thron der Sieben Königreiche (Das Lied von Eis und Feuer, #3)](https://www.goodreads.com/review/show/2181741018?utm_medium=api&utm_source=rss) by George R.R. Martin (⭐️4.39)
 - [Der Morgen davor und das Leben danach](https://www.goodreads.com/review/show/4233087236?utm_medium=api&utm_source=rss) by Ann Napolitano (⭐️4.12)
 - [Just Like You](https://www.goodreads.com/review/show/4145441992?utm_medium=api&utm_source=rss) by Nick Hornby (⭐️3.36)
 - [An Ugly Truth: Inside Facebook's Battle for Domination](https://www.goodreads.com/review/show/4279662350?utm_medium=api&utm_source=rss) by Sheera Frenkel (⭐️4.04)
-- [Der Elfenpakt](https://www.goodreads.com/review/show/2147135155?utm_medium=api&utm_source=rss) by Herbie Brennan (⭐️3.89)
 <!-- GOODREADS-LIST:END -->
 
 <!--
