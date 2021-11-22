@@ -20,7 +20,7 @@ My name is Aaron Czichon.
 - [Wir Sind Götter (Bobiverse, #2)](https://www.goodreads.com/review/show/4039051734?utm_medium=api&utm_source=rss) by Dennis E. Taylor (⭐️4.23)
 - [Die Herren von Winterfell (Das Lied von Eis und Feuer, #1)](https://www.goodreads.com/review/show/2100383203?utm_medium=api&utm_source=rss) by George R.R. Martin (⭐️4.24)
 - [Der Thron der Sieben Königreiche (Das Lied von Eis und Feuer, #3)](https://www.goodreads.com/review/show/2181741018?utm_medium=api&utm_source=rss) by George R.R. Martin (⭐️4.39)
-- [Der Morgen davor und das Leben danach](https://www.goodreads.com/review/show/4233087236?utm_medium=api&utm_source=rss) by Ann Napolitano (⭐️4.12)
+- [Der Morgen davor und das Leben danach](https://www.goodreads.com/review/show/4233087236?utm_medium=api&utm_source=rss) by Ann Napolitano (⭐️4.1)
 - [Just Like You](https://www.goodreads.com/review/show/4145441992?utm_medium=api&utm_source=rss) by Nick Hornby (⭐️3.36)
 - [An Ugly Truth: Inside Facebook's Battle for Domination](https://www.goodreads.com/review/show/4279662350?utm_medium=api&utm_source=rss) by Sheera Frenkel (⭐️4.04)
 <!-- GOODREADS-LIST:END -->
