@@ -17,7 +17,7 @@ My name is Aaron Czichon.
 - [Der Elfenpakt](https://www.goodreads.com/review/show/2147135155?utm_medium=api&utm_source=rss) by Herbie Brennan (⭐️3.89)
 - [Wir Sind Götter (Bobiverse, #2)](https://www.goodreads.com/review/show/4039051734?utm_medium=api&utm_source=rss) by Dennis E. Taylor (⭐️4.24)
 - [Der Thron der Sieben Königreiche (Das Lied von Eis und Feuer, #3)](https://www.goodreads.com/review/show/2181741018?utm_medium=api&utm_source=rss) by George R.R. Martin (⭐️4.39)
-- [Der Morgen davor und das Leben danach](https://www.goodreads.com/review/show/4233087236?utm_medium=api&utm_source=rss) by Ann Napolitano (⭐️4.2)
+- [Der Morgen davor und das Leben danach](https://www.goodreads.com/review/show/4233087236?utm_medium=api&utm_source=rss) by Ann Napolitano (⭐️4.17)
 <!-- GOODREADS-LIST:END -->
 
 <!--
