@@ -11,7 +11,7 @@ My name is Aaron Czichon.
 * [Zoom DOM elements with CSS - 12/2020](https://aaronczichon.de/blog/zoom-dom-elements-with-css/?mtm_campaign=github)
 * [How to use JSON.stringify - 09/2020](https://aaronczichon.de/blog/how-to-use-json.stringif/?mtm_campaign=github)
 
-📚 Some of my latest books I've read
+📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [When Breath Becomes Air](https://www.goodreads.com/review/show/4484195473?utm_medium=api&utm_source=rss) by Paul Kalanithi (⭐️4.37)
 <!-- GOODREADS-LIST:END -->
