@@ -13,11 +13,7 @@ My name is Aaron Czichon.
 
 📚 Some of my latest books I've read
 <!-- GOODREADS-LIST:START -->
-- [Der Letzte seiner Art](https://www.goodreads.com/review/show/4096436099?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️3.65)
-- [Der Elfenpakt](https://www.goodreads.com/review/show/2147135155?utm_medium=api&utm_source=rss) by Herbie Brennan (⭐️3.89)
-- [Wir Sind Götter (Bobiverse, #2)](https://www.goodreads.com/review/show/4039051734?utm_medium=api&utm_source=rss) by Dennis E. Taylor (⭐️4.25)
-- [Der Thron der Sieben Königreiche (Das Lied von Eis und Feuer, #3)](https://www.goodreads.com/review/show/2181741018?utm_medium=api&utm_source=rss) by George R.R. Martin (⭐️4.39)
-- [Der Morgen davor und das Leben danach](https://www.goodreads.com/review/show/4233087236?utm_medium=api&utm_source=rss) by Ann Napolitano (⭐️4.17)
+- [When Breath Becomes Air](https://www.goodreads.com/review/show/4484195473?utm_medium=api&utm_source=rss) by Paul Kalanithi (⭐️4.37)
 <!-- GOODREADS-LIST:END -->
 
 <!--
