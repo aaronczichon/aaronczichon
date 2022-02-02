@@ -13,7 +13,7 @@ My name is Aaron Czichon.
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [When Breath Becomes Air](https://www.goodreads.com/review/show/4484195473?utm_medium=api&utm_source=rss) by Paul Kalanithi (⭐️4.37)
+- [Dune (Dune, #1)](https://www.goodreads.com/review/show/4238754010?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
 
 <!--
