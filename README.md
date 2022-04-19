@@ -14,7 +14,7 @@ My name is Aaron Czichon.
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [People We Meet on Vacation](https://www.goodreads.com/review/show/4589642563?utm_medium=api&utm_source=rss) by Emily Henry (⭐️4.02)
+- [People We Meet on Vacation](https://www.goodreads.com/review/show/4589642563?utm_medium=api&utm_source=rss) by Emily Henry (⭐️4.01)
 <!-- GOODREADS-LIST:END -->
 
 <!--
