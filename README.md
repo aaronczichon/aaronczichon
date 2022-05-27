@@ -7,6 +7,7 @@ My name is Aaron Czichon.
 🦜Just reach me out and let's have a chat!
 
 📝 My latest blog posts
+* [Don't underestimate the power of colors - 05/2022](https://aaronczichon.de/blog/dont-underestimate-the-power-of-colors/)
 * [WFH / Desk Setup - 04/2022](https://aaronczichon.de/blog/wfh-desk-setup/)
 * [I want to love Windows, but... - 01/2021](https://aaronczichon.de/blog/i-want-to-love-windows-but/?mtm_campaign=github)
 * [Zoom DOM elements with CSS - 12/2020](https://aaronczichon.de/blog/zoom-dom-elements-with-css/?mtm_campaign=github)
