@@ -19,6 +19,9 @@ My name is Aaron Czichon.
 - [Himmelsfluss (Bobiverse, #4)](https://www.goodreads.com/review/show/4729547636?utm_medium=api&utm_source=rss) by Dennis E. Taylor (⭐️4.24)
 <!-- GOODREADS-LIST:END -->
 
+😎 Support   
+
+If you want to support me and my work you can do so with Ethereum (ETH) to address `0x4c5b4F9b870368152F8Ea0978890132A4FC20332`
 <!--
 **aaronczichon/aaronczichon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
