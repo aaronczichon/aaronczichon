@@ -16,7 +16,7 @@ My name is Aaron Czichon.
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Himmelsfluss (Bobiverse, #4)](https://www.goodreads.com/review/show/4729547636?utm_medium=api&utm_source=rss) by Dennis E. Taylor (⭐️4.24)
+- [Himmelsfluss (Bobiverse, #4)](https://www.goodreads.com/review/show/4729547636?utm_medium=api&utm_source=rss) by Dennis E. Taylor (⭐️4.27)
 <!-- GOODREADS-LIST:END -->
 
 🗓 Let's talk
