@@ -7,6 +7,7 @@ My name is Aaron Czichon.
 🦜Just reach me out and let's have a chat!
 
 📝 My latest blog posts
+* [Apple Shortcuts: Import Tabs to Things - 09/2022](https://aaronczichon.de/blog/apple-shortcuts-import-tabs-to-things/)
 * [TIL: merge != merge in RxJS (v7 and previous) - 08/2022](https://aaronczichon.de/blog/til-merge-merge-in-rxjs-v7-and-previous/)
 * [Don't underestimate the power of colors - 05/2022](https://aaronczichon.de/blog/dont-underestimate-the-power-of-colors/)
 * [WFH / Desk Setup - 04/2022](https://aaronczichon.de/blog/wfh-desk-setup/)
