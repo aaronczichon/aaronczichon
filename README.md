@@ -7,13 +7,11 @@ My name is Aaron Czichon.
 🦜Just reach me out and let's have a chat!
 
 📝 My latest blog posts
+* [Getting started with Trapeze and Github (Part 1) - 11/2022](https://aaronczichon.de/blog/getting-started-with-trapeze-and-github-part-1/)
 * [Apple Shortcuts: Import Tabs to Things - 09/2022](https://aaronczichon.de/blog/apple-shortcuts-import-tabs-to-things/)
 * [TIL: merge != merge in RxJS (v7 and previous) - 08/2022](https://aaronczichon.de/blog/til-merge-merge-in-rxjs-v7-and-previous/)
 * [Don't underestimate the power of colors - 05/2022](https://aaronczichon.de/blog/dont-underestimate-the-power-of-colors/)
 * [WFH / Desk Setup - 04/2022](https://aaronczichon.de/blog/wfh-desk-setup/)
-* [I want to love Windows, but... - 01/2021](https://aaronczichon.de/blog/i-want-to-love-windows-but/?mtm_campaign=github)
-* [Zoom DOM elements with CSS - 12/2020](https://aaronczichon.de/blog/zoom-dom-elements-with-css/?mtm_campaign=github)
-* [How to use JSON.stringify - 09/2020](https://aaronczichon.de/blog/how-to-use-json.stringif/?mtm_campaign=github)
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
