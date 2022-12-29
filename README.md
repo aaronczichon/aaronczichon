@@ -15,7 +15,7 @@ My name is Aaron Czichon.
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Eine unberührte Welt](https://www.goodreads.com/review/show/5074656719?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️3.75)
+- [Book Lovers](https://www.goodreads.com/review/show/5117792333?utm_medium=api&utm_source=rss) by Emily Henry (⭐️4.22)
 <!-- GOODREADS-LIST:END -->
 
 🗓 Let's talk
