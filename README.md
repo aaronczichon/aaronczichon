@@ -15,7 +15,7 @@ My name is Aaron Czichon.
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Book Lovers](https://www.goodreads.com/review/show/5117792333?utm_medium=api&utm_source=rss) by Emily Henry (⭐️4.21)
+- [Book Lovers](https://www.goodreads.com/review/show/5117792333?utm_medium=api&utm_source=rss) by Emily Henry (⭐️4.2)
 <!-- GOODREADS-LIST:END -->
 
 🗓 Let's talk
