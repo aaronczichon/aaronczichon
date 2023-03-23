@@ -22,9 +22,6 @@ My name is Aaron Czichon.
 
 If you want to talk to me feel free to [book](https://cal.com/aaronczichon/30min) a slot and we can have a chat 😊
 
-😎 Support   
-
-If you want to support me and my work you can do so with Ethereum (ETH) to address `0x4c5b4F9b870368152F8Ea0978890132A4FC20332`
 <!--
 **aaronczichon/aaronczichon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
