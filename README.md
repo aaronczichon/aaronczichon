@@ -6,6 +6,8 @@ My name is Aaron Czichon.
 🛠 My focus is on web technologies like NodeJS, Web Components, Angular, VueJS, Ionic, Capacitor and many more.    
 🦜Just reach me out and let's have a chat!
 
+![Image](assets/ide-badge-blue.png)
+
 📝 My latest blog posts
 * [Getting started with Trapeze and Github (Part 1) - 11/2022](https://aaronczichon.de/blog/getting-started-with-trapeze-and-github-part-1/)
 * [Apple Shortcuts: Import Tabs to Things - 09/2022](https://aaronczichon.de/blog/apple-shortcuts-import-tabs-to-things/)
