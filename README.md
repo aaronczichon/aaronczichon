@@ -17,7 +17,7 @@ My name is Aaron Czichon.
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [NSA - Nationales Sicherheits-Amt](https://www.goodreads.com/review/show/5374431716?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️3.97)
+- [Vor dem Gesetz sind nicht alle gleich: Die neue Klassenjustiz](https://www.goodreads.com/review/show/5585963422?utm_medium=api&utm_source=rss) by Ronen Steinke (⭐️4.41)
 <!-- GOODREADS-LIST:END -->
 
 🗓 Let's talk
