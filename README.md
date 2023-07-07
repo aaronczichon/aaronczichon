@@ -17,7 +17,7 @@ My name is Aaron Czichon.
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Vor dem Gesetz sind nicht alle gleich: Die neue Klassenjustiz](https://www.goodreads.com/review/show/5585963422?utm_medium=api&utm_source=rss) by Ronen Steinke (⭐️4.41)
+- [Follow Us: Roman (German Edition)](https://www.goodreads.com/review/show/5664258269?utm_medium=api&utm_source=rss) by Megan Angelo (⭐️3.5)
 <!-- GOODREADS-LIST:END -->
 
 🗓 Let's talk
