@@ -17,7 +17,7 @@ My name is Aaron Czichon.
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Follow Us: Roman (German Edition)](https://www.goodreads.com/review/show/5664258269?utm_medium=api&utm_source=rss) by Megan Angelo (⭐️3.5)
+- [Followers](https://www.goodreads.com/review/show/5664258269?utm_medium=api&utm_source=rss) by Megan Angelo (⭐️3.39)
 <!-- GOODREADS-LIST:END -->
 
 🗓 Let's talk
