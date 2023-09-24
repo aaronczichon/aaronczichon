@@ -17,7 +17,7 @@ My name is Aaron Czichon.
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Followers](https://www.goodreads.com/review/show/5664258269?utm_medium=api&utm_source=rss) by Megan Angelo (⭐️3.38)
+- [Freiheitsgeld](https://www.goodreads.com/review/show/5863567012?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️3.61)
 <!-- GOODREADS-LIST:END -->
 
 🗓 Let's talk
