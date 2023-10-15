@@ -17,7 +17,7 @@ My name is Aaron Czichon.
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Freiheitsgeld](https://www.goodreads.com/review/show/5863567012?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️3.62)
+- [Freiheitsgeld](https://www.goodreads.com/review/show/5863567012?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️3.61)
 <!-- GOODREADS-LIST:END -->
 
 🗓 Let's talk
