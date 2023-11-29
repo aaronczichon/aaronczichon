@@ -17,7 +17,7 @@ My name is Aaron Czichon.
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Mad About You](https://www.goodreads.com/review/show/5927184063?utm_medium=api&utm_source=rss) by Mhairi McFarlane (⭐️3.8)
+- [CHASING AFTER past &amp; future](https://www.goodreads.com/review/show/6009782755?utm_medium=api&utm_source=rss) by Jennifer Ebbinghaus (⭐️4.31)
 <!-- GOODREADS-LIST:END -->
 
 🗓 Let's talk
