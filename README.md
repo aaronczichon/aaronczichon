@@ -17,7 +17,7 @@ My name is Aaron Czichon.
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [CHASING AFTER past &amp; future](https://www.goodreads.com/review/show/6009782755?utm_medium=api&utm_source=rss) by Jennifer Ebbinghaus (⭐️4.31)
+- [Baustellen der Nation: Was wir jetzt in Deutschland ändern müssen | Das lang ersehnte Buch zu einem der beliebtesten Politik-Podcasts Deutschlands (German Edition)](https://www.goodreads.com/review/show/6089054610?utm_medium=api&utm_source=rss) by Philip Banse (⭐️4.42)
 <!-- GOODREADS-LIST:END -->
 
 🗓 Let's talk
