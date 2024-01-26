@@ -9,11 +9,11 @@ My name is Aaron Czichon.
 ![Image](assets/ide-badge-blue.png)
 
 📝 My latest blog posts
+* [January 24 Winter Days](https://aaronczichon.de/blog/january-24-winter-days/)
+* [Year Review 2023](https://aaronczichon.de/blog/year-review-2023/)
+* [More than 3 years at PlanB.](https://aaronczichon.de/blog/more-than-3-years-at-planb/)
 * [Getting started with Trapeze and Github (Part 1) - 11/2022](https://aaronczichon.de/blog/getting-started-with-trapeze-and-github-part-1/)
 * [Apple Shortcuts: Import Tabs to Things - 09/2022](https://aaronczichon.de/blog/apple-shortcuts-import-tabs-to-things/)
-* [TIL: merge != merge in RxJS (v7 and previous) - 08/2022](https://aaronczichon.de/blog/til-merge-merge-in-rxjs-v7-and-previous/)
-* [Don't underestimate the power of colors - 05/2022](https://aaronczichon.de/blog/dont-underestimate-the-power-of-colors/)
-* [WFH / Desk Setup - 04/2022](https://aaronczichon.de/blog/wfh-desk-setup/)
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
