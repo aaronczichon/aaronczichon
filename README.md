@@ -17,7 +17,7 @@ My name is Aaron Czichon.
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Deutschland Schwarz Weiß](https://www.goodreads.com/review/show/6201186953?utm_medium=api&utm_source=rss) by Noah Sow (⭐️5)
+- [Was Sie dachten, NIEMALS über KANADA wissen zu wollen: 55 enthüllende Einblicke in ein warm angezogenes Land (German Edition)](https://www.goodreads.com/review/show/6247001509?utm_medium=api&utm_source=rss) by Manuela König (⭐️4.25)
 <!-- GOODREADS-LIST:END -->
 
 🗓 Let's talk
