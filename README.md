@@ -17,7 +17,7 @@ My name is Aaron Czichon.
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Was Sie dachten, NIEMALS über KANADA wissen zu wollen: 55 enthüllende Einblicke in ein warm angezogenes Land (German Edition)](https://www.goodreads.com/review/show/6247001509?utm_medium=api&utm_source=rss) by Manuela König (⭐️4.25)
+- [Trennungsroman (German Edition)](https://www.goodreads.com/review/show/3968535085?utm_medium=api&utm_source=rss) by Anna Brüggemann (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
 
 🗓 Let's talk
