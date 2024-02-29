@@ -17,7 +17,7 @@ My name is Aaron Czichon.
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Das Buch, von dem du dir wünschst, deine Liebsten würden es lesen (und ein paar von den anderen auch): Wie wir gute Beziehungen führen - mit anderen und mit uns selbst (German Edition)](https://www.goodreads.com/review/show/6300969749?utm_medium=api&utm_source=rss) by Philippa Perry (⭐️3.72)
+- [Das Buch, von dem du dir wünschst, deine Liebsten würden es lesen (und ein paar von den anderen auch): Wie wir gute Beziehungen führen - mit anderen und mit uns selbst (German Edition)](https://www.goodreads.com/review/show/6300969749?utm_medium=api&utm_source=rss) by Philippa Perry (⭐️3.73)
 <!-- GOODREADS-LIST:END -->
 
 🗓 Let's talk
