@@ -17,7 +17,7 @@ My name is Aaron Czichon.
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Black*Out](https://www.goodreads.com/review/show/6352716601?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️4)
+- [Hide*Out](https://www.goodreads.com/review/show/6388032686?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️3.77)
 <!-- GOODREADS-LIST:END -->
 
 🗓 Let's talk
