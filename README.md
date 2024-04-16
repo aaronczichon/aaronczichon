@@ -17,7 +17,7 @@ My name is Aaron Czichon.
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Time*Out](https://www.goodreads.com/review/show/6410448353?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️4.38)
+- [Normal People](https://www.goodreads.com/review/show/4153816771?utm_medium=api&utm_source=rss) by Sally Rooney (⭐️4)
 <!-- GOODREADS-LIST:END -->
 
 🗓 Let's talk
