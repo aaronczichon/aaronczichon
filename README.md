@@ -2,11 +2,11 @@
 
 My name is Aaron Czichon.
 
-💻 I'm currently working at [PlanB. GmbH](https://github.com/planbgmbh) as an Solution Expert.    
-🛠 My focus is on web technologies like NodeJS, Web Components, Angular, VueJS, Ionic, Capacitor and many more.    
-🦜Just reach me out and let's have a chat!
-
-![Image](assets/ide-badge-blue.png)
+💻 I'm currently working at [PlanB. GmbH](https://github.com/planbgmbh) as an Senior Javascript Engineer.    
+🛠 My focus is on web technologies like NodeJS, Web Components, Angular, Ionic, Capacitor and many more.     
+🦜 Just reach me out and let's have a chat!   
+📱 Since August 2022 I'm an [official Ionic Developer Expert (IDE)](https://ionic.io/developer-experts)   
+🌏 More info on my [website](https://aaronczichon.de)   
 
 📝 My latest blog posts
 * [Obsidian Location Plugin](https://aaronczichon.de/blog/18-obsidian-location-plugin/)
@@ -23,7 +23,7 @@ My name is Aaron Czichon.
 
 🗓 Let's talk
 
-If you want to talk to me feel free to [book](https://cal.com/aaronczichon/30min) a slot and we can have a chat 😊
+- If you want to talk to me feel free to [book](https://cal.com/aaronczichon/30min) a slot and we can have a chat 😊
 
 <!--
 **aaronczichon/aaronczichon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
