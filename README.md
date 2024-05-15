@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Aaron Czichon.
+My name is Aaron 😊
 
 💻 I'm currently working at [PlanB. GmbH](https://github.com/planbgmbh) as an Senior Javascript Engineer.    
 🛠 My focus is on web technologies like NodeJS, Web Components, Angular, Ionic, Capacitor and many more.     
