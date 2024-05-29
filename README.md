@@ -9,6 +9,7 @@ My name is Aaron 😊
 🌏 More info on my [website](https://aaronczichon.de)   
 
 📝 My latest blog posts
+* [Obsidian Location Plugin Update 1.1](https://aaronczichon.de/blog/20-obsidian-location-plugin-update1/)
 * [How I structure my work](https://aaronczichon.de/blog/19-how-i-structure-my-work/)
 * [Obsidian Location Plugin](https://aaronczichon.de/blog/18-obsidian-location-plugin/)
 * [Raspberry Pi as a Github Runner](https://aaronczichon.de/blog/17-custom-github-runner/)
