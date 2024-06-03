@@ -20,7 +20,7 @@ My name is Aaron 😊
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [A History of Canada in Ten Maps: Epic Stories of Charting a Mysterious Land](https://www.goodreads.com/review/show/6432667188?utm_medium=api&utm_source=rss) by Adam Shoalts (⭐️4.35)
+- [Eines Menschen Flügel](https://www.goodreads.com/review/show/6554852436?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️4)
 <!-- GOODREADS-LIST:END -->
 
 🗓 Let's talk
