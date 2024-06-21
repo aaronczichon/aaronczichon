@@ -2,7 +2,7 @@
 
 My name is Aaron 😊
 
-💻 I'm currently working at [PlanB. GmbH](https://github.com/planbgmbh) as a Senior Javascript Engineer.    
+💻 I'm working at [PlanB. GmbH](https://github.com/planbgmbh) as a Senior Javascript Engineer.    
 🛠 My focus is on web technologies like NodeJS, Web Components, Angular, Ionic, Capacitor and many more.     
 🦜 Just reach me out and let's have a chat!   
 📱 Since August 2022 I'm an [official Ionic Developer Expert (IDE)](https://ionic.io/developer-experts)   
