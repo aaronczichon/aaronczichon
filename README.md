@@ -9,14 +9,13 @@ My name is Aaron 😊
 🌏 More info on my [website](https://aaronczichon.de)   
 
 📝 My latest blog posts
+* [Astro: Automatically translate text during build time using DeepL](https://aaronczichon.de/blog/21-astro-deepl-component/)
 * [Obsidian Location Plugin Update 1.1](https://aaronczichon.de/blog/20-obsidian-location-plugin-update1/)
 * [How I structure my work](https://aaronczichon.de/blog/19-how-i-structure-my-work/)
 * [Obsidian Location Plugin](https://aaronczichon.de/blog/18-obsidian-location-plugin/)
 * [Raspberry Pi as a Github Runner](https://aaronczichon.de/blog/17-custom-github-runner/)
-* [App Default 2024](https://aaronczichon.de/blog/app-defaults-2024/)
-* [Year Review 2023](https://aaronczichon.de/blog/year-review-2023/)
-* [More than 3 years at PlanB.](https://aaronczichon.de/blog/more-than-3-years-at-planb/)
-* [Getting started with Trapeze and Github (Part 1) - 11/2022](https://aaronczichon.de/blog/getting-started-with-trapeze-and-github-part-1/)
+
+[...read more!](https://aaronczichon.de/blog)
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
