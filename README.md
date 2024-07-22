@@ -9,6 +9,8 @@ My name is Aaron 😊
 🌏 More info on my [website](https://aaronczichon.de)   
 
 📝 My latest blog posts
+* [Ignore future changes for existing files in Git](https://aaronczichon.de/blog/23-gitignore-existing/)
+* [June 2024 Recap](https://aaronczichon.de/blog/22-recap-june24/)
 * [Astro: Automatically translate text during build time using DeepL](https://aaronczichon.de/blog/21-astro-deepl-component/)
 * [Obsidian Location Plugin Update 1.1](https://aaronczichon.de/blog/20-obsidian-location-plugin-update1/)
 * [How I structure my work](https://aaronczichon.de/blog/19-how-i-structure-my-work/)
