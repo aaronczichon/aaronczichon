@@ -21,7 +21,7 @@ My name is Aaron 😊
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Eines Menschen Flügel](https://www.goodreads.com/review/show/6554852436?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️4)
+- [The Psychology of Money](https://www.goodreads.com/review/show/6615260508?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.28)
 <!-- GOODREADS-LIST:END -->
 
 🗓 Let's talk
