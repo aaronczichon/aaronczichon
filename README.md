@@ -21,7 +21,7 @@ My name is Aaron 😊
 
 📚 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [The Psychology of Money](https://www.goodreads.com/review/show/6615260508?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.28)
+- [Children of Time (Children of Time #1)](https://www.goodreads.com/review/show/6728589039?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️4.39)
 <!-- GOODREADS-LIST:END -->
 
 🗓 Let's talk
