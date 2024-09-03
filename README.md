@@ -3,11 +3,11 @@
 My name is Aaron 😊
 
 💻 I'm working at [PlanB. GmbH](https://github.com/planbgmbh) as a Senior Javascript Engineer.    
-🛠 My focus is on web technologies and mostly Javascript, HTML and CSS. Lately I got into Rust and occasionally I do C#.
-📦 I worked with all the large and most of the not so large JS frameworks. So feel free to ask something.
+🛠 My focus is on web technologies and mostly Javascript, HTML and CSS. Lately I got into Rust and occasionally I do C#.   
+📦 I worked with all the large and most of the not so large JS frameworks. So feel free to ask something.   
 🦜 Just reach me out and let's have a chat!   
 📱 Since August 2022 I'm an [official Ionic Developer Expert (IDE)](https://ionic.io/developer-experts)   
-🌏 More info on my [website](https://aaronczichon.de)   
+🌏 Want to learn more about me? Check out my [website](https://aaronczichon.de).   
 
 📝 My latest blog posts
 * [Obsidian Location Plugin Update 1.3](https://aaronczichon.de/blog/26-obsidian-plugin-130/)
@@ -26,9 +26,10 @@ My name is Aaron 😊
 - [Children of Time (Children of Time #1)](https://www.goodreads.com/review/show/6728589039?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️4.39)
 <!-- GOODREADS-LIST:END -->
 
-🗓 Let's talk
+🌎 What's up lately?   
 
-- If you want to talk to me feel free to [book](https://cal.com/aaronczichon/30min) a slot and we can have a chat 😊
+I'm from Germany 🇩🇪 but I live currently in Canada 🇨🇦.    
+I work 100% remote and if you're curious where I'm located more specific you can check my [/where](https://aaronczichon.de/where) page.
 
 <!--
 **aaronczichon/aaronczichon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
