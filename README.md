@@ -3,7 +3,8 @@
 My name is Aaron 😊
 
 💻 I'm working at [PlanB. GmbH](https://github.com/planbgmbh) as a Senior Javascript Engineer.    
-🛠 My focus is on web technologies like NodeJS, Web Components, Angular, Ionic, Capacitor and many more.     
+🛠 My focus is on web technologies and mostly Javascript, HTML and CSS. Lately I got into Rust and occasionally I do C#.
+📦 I worked with all the large and most of the not so large JS frameworks. So feel free to ask something.
 🦜 Just reach me out and let's have a chat!   
 📱 Since August 2022 I'm an [official Ionic Developer Expert (IDE)](https://ionic.io/developer-experts)   
 🌏 More info on my [website](https://aaronczichon.de)   
