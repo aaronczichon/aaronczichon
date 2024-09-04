@@ -28,6 +28,9 @@ My name is Aaron 😊
 
 📚 What I've read before
 <!-- GOODREADS-LIST-PAST:START -->
+- [The Psychology of Money](https://www.goodreads.com/review/show/6615260508?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.27)
+- [Eines Menschen Flügel](https://www.goodreads.com/review/show/6554852436?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️4.17)
+- [A History of Canada in Ten Maps: Epic Stories of Charting a Mysterious Land](https://www.goodreads.com/review/show/6432667188?utm_medium=api&utm_source=rss) by Adam Shoalts (⭐️4.34)
 <!-- GOODREADS-LIST-PAST:END -->
 
 🌎 What's up lately?   
