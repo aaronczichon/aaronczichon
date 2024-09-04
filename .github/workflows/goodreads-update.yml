@@ -10,14 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: zwacky/goodreads-profile-workflow@main
+      - uses: zwacky/goodreads-profile-workflow@v1
         name: Update books currently reading
         with:
           # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
           goodreads_user_id: "53478182"
           shelf: "currently-reading"
           max_books_count: "5"
-      - uses: zwacky/goodreads-profile-workflow@main
+      - uses: zwacky/goodreads-profile-workflow@v1
         name: Update books already read
         with:
           # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
