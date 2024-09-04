@@ -21,10 +21,14 @@ My name is Aaron 😊
 
 [...read more!](https://aaronczichon.de/blog)
 
-📚 What I'm currently reading
+📖 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [Children of Time (Children of Time #1)](https://www.goodreads.com/review/show/6728589039?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️4.39)
 <!-- GOODREADS-LIST:END -->
+
+📚 What I've read before
+<!-- GOODREADS-LIST-PAST:START -->
+<!-- GOODREADS-LIST-PAST:END -->
 
 🌎 What's up lately?   
 
