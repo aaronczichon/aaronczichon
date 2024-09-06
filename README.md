@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Aaron 😊
+My name is Aaron 😊   
+I'm from Germany 🇩🇪 but I live currently in Canada 🇨🇦.    
+I work 100% remote and if you're curious where I'm located more specific you can check my [/where](https://aaronczichon.de/where) page.
 
 💻 I'm working at [PlanB. GmbH](https://github.com/planbgmbh) as a Senior Javascript Engineer.    
 🛠 My focus is on web technologies and mostly Javascript, HTML and CSS. Lately I got into Rust and occasionally I do C#.   
@@ -32,11 +34,6 @@ My name is Aaron 😊
 - [Eines Menschen Flügel](https://www.goodreads.com/review/show/6554852436?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️4.17)
 - [A History of Canada in Ten Maps: Epic Stories of Charting a Mysterious Land](https://www.goodreads.com/review/show/6432667188?utm_medium=api&utm_source=rss) by Adam Shoalts (⭐️4.34)
 <!-- GOODREADS-LIST-PAST:END -->
-
-🌎 What's up lately?   
-
-I'm from Germany 🇩🇪 but I live currently in Canada 🇨🇦.    
-I work 100% remote and if you're curious where I'm located more specific you can check my [/where](https://aaronczichon.de/where) page.
 
 <!--
 **aaronczichon/aaronczichon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
