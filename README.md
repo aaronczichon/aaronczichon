@@ -12,9 +12,9 @@ I work 100% remote and if you're curious where I'm located more specific you can
 🌏 Want to learn more about me? Check out my [website](https://aaronczichon.de).   
 
 📝 My latest blog posts
+* [Deploy your Astro website to Cloudflare Pages with protected preview deployments](https://aaronczichon.de/blog/28-cloudflare-pages-astro-github/)
 * [Obsidian Location Plugin Update 1.3](https://aaronczichon.de/blog/26-obsidian-plugin-130/)
 * [Ignore future changes for existing files in Git](https://aaronczichon.de/blog/23-gitignore-existing/)
-* [June 2024 Recap](https://aaronczichon.de/blog/22-recap-june24/)
 * [Astro: Automatically translate text during build time using DeepL](https://aaronczichon.de/blog/21-astro-deepl-component/)
 * [Obsidian Location Plugin Update 1.1](https://aaronczichon.de/blog/20-obsidian-location-plugin-update1/)
 * [How I structure my work](https://aaronczichon.de/blog/19-how-i-structure-my-work/)
