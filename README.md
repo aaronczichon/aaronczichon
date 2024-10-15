@@ -23,7 +23,7 @@ I work 100% remote and if you're curious where I'm located more specific you can
 
 📖 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Tidy First?: A Personal Exercise in Empirical Software Design](https://www.goodreads.com/review/show/6614987667?utm_medium=api&utm_source=rss) by Kent Beck (⭐️3.87)
+- [Das Jesus-Video](https://www.goodreads.com/review/show/6926802828?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️4.15)
 <!-- GOODREADS-LIST:END -->
 
 📚 What I've read before
