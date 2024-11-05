@@ -23,7 +23,7 @@ I work 100% remote and if you're curious where I'm located more specific you can
 
 📖 What I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Das Jesus-Video](https://www.goodreads.com/review/show/6926802828?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️4.15)
+- [No Surrender: The Land Remains Indigenous](https://www.goodreads.com/review/show/6820151630?utm_medium=api&utm_source=rss) by Sheldon Krasowski (⭐️4)
 <!-- GOODREADS-LIST:END -->
 
 📚 What I've read before
