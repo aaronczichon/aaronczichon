@@ -30,7 +30,7 @@ I work 100% remote and if you're curious where I'm located more specific you can
 <!-- GOODREADS-LIST-PAST:START -->
 - [Das Jesus-Video](https://www.goodreads.com/review/show/6926802828?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️4.17)
 - [Tidy First?: A Personal Exercise in Empirical Software Design](https://www.goodreads.com/review/show/6614987667?utm_medium=api&utm_source=rss) by Kent Beck (⭐️3.86)
-- [Jura Not Alone](https://www.goodreads.com/review/show/6417232395?utm_medium=api&utm_source=rss) by Nora Markard (⭐️4.4)
+- [Jura Not Alone](https://www.goodreads.com/review/show/6417232395?utm_medium=api&utm_source=rss) by Nora Markard (⭐️4.41)
 <!-- GOODREADS-LIST-PAST:END -->
 
 <!--
