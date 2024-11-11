@@ -2,7 +2,7 @@
 
 My name is Aaron 😊   
 I'm from Germany 🇩🇪 but I live currently in Canada 🇨🇦.    
-I work 100% remote and if you're curious where I'm located more specific you can check my [/where](https://aaronczichon.de/where) page.
+I work 100% remote and if you're curious where I'm located you can check my [/where](https://aaronczichon.de/where) page.
 
 💻 I'm working at [PlanB. GmbH](https://github.com/planbgmbh) as a Senior Javascript Engineer.    
 🛠 My focus is on web technologies and mostly Javascript/Typescript, HTML and CSS. Lately I got into Rust and occasionally I do C#.   
