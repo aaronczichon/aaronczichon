@@ -30,7 +30,7 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 <!-- GOODREADS-LIST-PAST:START -->
 - [Der Thron der Sieben Königreiche (Das Lied von Eis und Feuer, #3)](https://www.goodreads.com/review/show/2181741018?utm_medium=api&utm_source=rss) by George R.R. Martin (⭐️4.38)
 - [Das Jesus-Video](https://www.goodreads.com/review/show/6926802828?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️4.17)
-- [Tidy First?: A Personal Exercise in Empirical Software Design](https://www.goodreads.com/review/show/6614987667?utm_medium=api&utm_source=rss) by Kent Beck (⭐️3.85)
+- [Tidy First?: A Personal Exercise in Empirical Software Design](https://www.goodreads.com/review/show/6614987667?utm_medium=api&utm_source=rss) by Kent Beck (⭐️3.86)
 <!-- GOODREADS-LIST-PAST:END -->
 
 <!--
