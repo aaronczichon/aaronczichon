@@ -21,10 +21,11 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 
 [...read more!](https://aaronczichon.de/blog)
 
-📖 What I'm currently reading
-- [No Surrender: The Land Remains Indigenous](https://app.thestorygraph.com/books/0b76d43c-2604-4b6c-94d7-1f72be99bdf2) by Sheldon Krasowski (⭐️4.25)
+📖 What I'm currently reading   
+I've read 17 books this year! Will start again in 2025 with more to come ☺️
 
 📚 What I've read before
+- [No Surrender: The Land Remains Indigenous](https://app.thestorygraph.com/books/0b76d43c-2604-4b6c-94d7-1f72be99bdf2) by Sheldon Krasowski (⭐️4.25)
 - [Das Jesus-Video](https://www.goodreads.com/review/show/6926802828?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️4.17)
 - [Tidy First?: A Personal Exercise in Empirical Software Design](https://www.goodreads.com/review/show/6614987667?utm_medium=api&utm_source=rss) by Kent Beck (⭐️3.85)
 
