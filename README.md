@@ -21,7 +21,7 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 [...read more!](https://aaronczichon.de/blog)
 
 📖 What I'm currently reading   
-I've read 17 books this year! Will start again in 2025 with more to come ☺️
+- [Happy Place](https://app.thestorygraph.com/books/084df628-75a9-4357-a928-b0547027122d) by Emily Henry
 
 📚 What I've read before
 - [No Surrender: The Land Remains Indigenous](https://app.thestorygraph.com/books/0b76d43c-2604-4b6c-94d7-1f72be99bdf2) by Sheldon Krasowski (⭐️4.25)
