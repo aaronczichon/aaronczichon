@@ -5,7 +5,7 @@ I'm from Germany 🇩🇪 but I currently live in Canada 🇨🇦.
 I work 100% remote and if you're curious where I'm located you can check my [/where](https://aaronczichon.de/where) page.
 
 💻 I'm working at [PlanB. GmbH](https://github.com/planbgmbh) as a Senior Javascript Engineer.    
-🛠 My focus is on web technologies and mostly Javascript/Typescript, HTML and CSS. Lately I got into Rust and occasionally I do C#.   
+🛠 My focus is on web technologies and mostly Javascript/Typescript, HTML and CSS. Lately I got into Swift and occasionally I do Rust and C#.   
 📦 I worked with all the large and most of the not so large JS frameworks. So feel free to ask something.   
 🦜 Just reach me out and let's have a chat!   
 📱 Since August 2022 I'm an [official Ionic Developer Expert (IDE)](https://ionic.io/developer-experts)   
