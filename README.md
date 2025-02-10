@@ -22,12 +22,12 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 [...read more!](https://aaronczichon.de/blog)
 
 📖 What I'm currently reading   
-- [Männer, die die Welt verbrennen](https://app.thestorygraph.com/books/8d0b1f96-fd25-47d0-97b6-541fa1b1b353) by Christian Stöcker
+- [How to End a Love Story ](https://app.thestorygraph.com/books/a9bc5164-5117-443b-a6d4-4e8e7ba353fa) by Yulin Kuang
 
 📚 What I've read before
+- [Männer, die die Welt verbrennen](https://app.thestorygraph.com/books/8d0b1f96-fd25-47d0-97b6-541fa1b1b353) by Christian Stöcker
 - [Happy Place](https://app.thestorygraph.com/books/084df628-75a9-4357-a928-b0547027122d) by Emily Henry
 - [No Surrender: The Land Remains Indigenous](https://app.thestorygraph.com/books/0b76d43c-2604-4b6c-94d7-1f72be99bdf2) by Sheldon Krasowski (⭐️4.25)
-- [Das Jesus-Video](https://www.goodreads.com/review/show/6926802828?utm_medium=api&utm_source=rss) by Andreas Eschbach (⭐️4.17)
 
 <!--
 **aaronczichon/aaronczichon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
