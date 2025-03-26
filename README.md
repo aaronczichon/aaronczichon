@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Aaron 😊   
-I'm from Germany 🇩🇪 but I currently live in Canada 🇨🇦.    
+I'm from Germany 🇩🇪 and lived the last year in Canada 🇨🇦.    
 I work 100% remote and if you're curious where I'm located you can check my [/where](https://aaronczichon.de/where) page.
 
 💻 I'm working at [PlanB. GmbH](https://github.com/planbgmbh) as a Senior Javascript Engineer.    
