@@ -6,7 +6,7 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 
 💻 I'm working at [PlanB. GmbH](https://github.com/planbgmbh) as a Senior Javascript Engineer.    
 🛠 My focus is on web technologies and mostly Javascript/Typescript, HTML and CSS. Lately I got into Swift and occasionally I do Rust and C#.    
-🦜 Just reach me out and let's have a chat!   
+🦜 Just reach out to me and let's have a chat!   
 📱 Since August 2022 I'm an [official Ionic Developer Expert (IDE)](https://ionic.io/developer-experts)   
 🌏 Want to learn more about me? Check out my [website](https://aaronczichon.de).   
 
