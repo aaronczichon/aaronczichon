@@ -21,9 +21,10 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 [...read more!](https://aaronczichon.de/blog)
 
 📖 What I'm currently reading   
-- [Apartheid in Palestine - Hard Laws and Harder Experiences](https://app.thestorygraph.com/books/7e69f5ab-bca2-4891-b9e7-51af9964d324) by Ghada Ageel
+
 
 📚 What I've read before
+- [Apartheid in Palestine - Hard Laws and Harder Experiences](https://app.thestorygraph.com/books/7e69f5ab-bca2-4891-b9e7-51af9964d324) by Ghada Ageel
 - [How to End a Love Story ](https://app.thestorygraph.com/books/a9bc5164-5117-443b-a6d4-4e8e7ba353fa) by Yulin Kuang
 - [Männer, die die Welt verbrennen](https://app.thestorygraph.com/books/8d0b1f96-fd25-47d0-97b6-541fa1b1b353) by Christian Stöcker
 - [Happy Place](https://app.thestorygraph.com/books/084df628-75a9-4357-a928-b0547027122d) by Emily Henry
