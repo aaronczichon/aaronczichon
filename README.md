@@ -21,7 +21,7 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 [...read more!](https://aaronczichon.de/blog)
 
 📖 What I'm currently reading   
-
+- [Der Jesus-Deal](https://app.thestorygraph.com/books/7aa71d29-f3da-431a-8f8e-714c0fda10da) by Andreas Eschbach
 
 📚 What I've read before
 - [Apartheid in Palestine - Hard Laws and Harder Experiences](https://app.thestorygraph.com/books/7e69f5ab-bca2-4891-b9e7-51af9964d324) by Ghada Ageel
