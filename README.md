@@ -21,6 +21,7 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 [...read more!](https://aaronczichon.de/blog)
 
 📖 What I'm currently reading   
+- [Funny Story](https://app.thestorygraph.com/books/70938f48-9bcb-41bf-87f8-2b5f59124eef) by Emily Henry
 
 📚 What I've read before
 - [Der Jesus-Deal](https://app.thestorygraph.com/books/7aa71d29-f3da-431a-8f8e-714c0fda10da) by Andreas Eschbach
