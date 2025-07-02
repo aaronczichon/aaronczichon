@@ -21,9 +21,10 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 [...read more!](https://aaronczichon.de/blog)
 
 📖 What I'm currently reading   
-- [Funny Story](https://app.thestorygraph.com/books/70938f48-9bcb-41bf-87f8-2b5f59124eef) by Emily Henry
+- [Not All Dead White Men](https://app.thestorygraph.com/books/ffdeeb47-10a3-4aa9-922b-981567864322) by Donna Zuckerberg
 
 📚 What I've read before
+- [Funny Story](https://app.thestorygraph.com/books/70938f48-9bcb-41bf-87f8-2b5f59124eef) by Emily Henry
 - [Der Jesus-Deal](https://app.thestorygraph.com/books/7aa71d29-f3da-431a-8f8e-714c0fda10da) by Andreas Eschbach
 - [Apartheid in Palestine - Hard Laws and Harder Experiences](https://app.thestorygraph.com/books/7e69f5ab-bca2-4891-b9e7-51af9964d324) by Ghada Ageel
 - [How to End a Love Story ](https://app.thestorygraph.com/books/a9bc5164-5117-443b-a6d4-4e8e7ba353fa) by Yulin Kuang
