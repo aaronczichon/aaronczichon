@@ -11,10 +11,10 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 🌏 Want to learn more about me? Check out my [website](https://aaronczichon.de).   
 
 📝 My latest blog posts
+* [Running Nextcloud behind a proxy](https://aaronczichon.de/blog/34-nextcloud-proxy/)
 * [Working in a Remote-First Team](https://aaronczichon.de/blog/32-remote-teams/)
 * [Make a local service available with Tailscale and Nginx Proxy Manager](https://aaronczichon.de/blog/31-tailscale-npm/)
 * [Deploy your Astro website to Cloudflare Pages with protected preview deployments](https://aaronczichon.de/blog/28-cloudflare-pages-astro-github/)
-* [Obsidian Location Plugin Update 1.3](https://aaronczichon.de/blog/26-obsidian-plugin-130/)
 * [Ignore future changes for existing files in Git](https://aaronczichon.de/blog/23-gitignore-existing/)
 * [Astro: Automatically translate text during build time using DeepL](https://aaronczichon.de/blog/21-astro-deepl-component/)
 
