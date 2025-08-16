@@ -21,7 +21,7 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 [...read more!](https://aaronczichon.de/blog)
 
 📖 What I'm currently reading   
-
+- [Das Labyrinth des Fauns](https://app.thestorygraph.com/books/84946714-2168-46d2-bf06-6cfdf4b4bb4d) by Cornelia Funke & Guillermo del Toro
 
 📚 What I've read before
 - [Not All Dead White Men](https://app.thestorygraph.com/books/ffdeeb47-10a3-4aa9-922b-981567864322) by Donna Zuckerberg
