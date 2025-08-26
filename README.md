@@ -21,9 +21,10 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 [...read more!](https://aaronczichon.de/blog)
 
 📖 What I'm currently reading   
-- [Das Labyrinth des Fauns](https://app.thestorygraph.com/books/84946714-2168-46d2-bf06-6cfdf4b4bb4d) by Cornelia Funke & Guillermo del Toro
+- [How will you measure your life?](https://app.thestorygraph.com/books/6aeab04a-7c53-48fa-b8cc-599ce9feb0ed) by Clayton M. Christensen
 
 📚 What I've read before
+- [Das Labyrinth des Fauns](https://app.thestorygraph.com/books/84946714-2168-46d2-bf06-6cfdf4b4bb4d) by Cornelia Funke & Guillermo del Toro
 - [Not All Dead White Men](https://app.thestorygraph.com/books/ffdeeb47-10a3-4aa9-922b-981567864322) by Donna Zuckerberg
 - [Funny Story](https://app.thestorygraph.com/books/70938f48-9bcb-41bf-87f8-2b5f59124eef) by Emily Henry
 - [Der Jesus-Deal](https://app.thestorygraph.com/books/7aa71d29-f3da-431a-8f8e-714c0fda10da) by Andreas Eschbach
