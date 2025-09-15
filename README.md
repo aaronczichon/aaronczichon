@@ -21,9 +21,10 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 [...read more!](https://aaronczichon.de/blog)
 
 📖 What I'm currently reading   
-- [Reckless #1](https://app.thestorygraph.com/books/406757c4-470c-4435-ab17-d1cc44b38d20) by Cornelia Funke
+
 
 📚 What I've read before
+- [Reckless #1](https://app.thestorygraph.com/books/406757c4-470c-4435-ab17-d1cc44b38d20) by Cornelia Funke
 - [How will you measure your life?](https://app.thestorygraph.com/books/6aeab04a-7c53-48fa-b8cc-599ce9feb0ed) by Clayton M. Christensen
 - [Das Labyrinth des Fauns](https://app.thestorygraph.com/books/84946714-2168-46d2-bf06-6cfdf4b4bb4d) by Cornelia Funke & Guillermo del Toro
 - [Not All Dead White Men](https://app.thestorygraph.com/books/ffdeeb47-10a3-4aa9-922b-981567864322) by Donna Zuckerberg
