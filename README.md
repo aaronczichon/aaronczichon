@@ -21,7 +21,7 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 [...read more!](https://aaronczichon.de/blog)
 
 📖 What I'm currently reading   
-
+- [Reckless #2](https://app.thestorygraph.com/books/02148dc4-ae1f-4573-8501-e00de4c0e67f) by Cornelia Funke
 
 📚 What I've read before
 - [Reckless #1](https://app.thestorygraph.com/books/406757c4-470c-4435-ab17-d1cc44b38d20) by Cornelia Funke
