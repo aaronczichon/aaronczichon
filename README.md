@@ -23,7 +23,7 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 Github is lately only pushing AI tools. It would be okay if they would improve and fix the main product. Therefore I started move to [Codeberg](https://codeberg.org/aaronczichon) a non-profit alternative to Github.
 
 📖 What I'm currently reading   
-
+- [The Singularity Trap](https://app.thestorygraph.com/books/e210c505-f8f2-4963-a0d2-32d98bf82750) by Dennis E. Taylor
 
 📚 What I've read before
 - [Reckless #3](https://app.thestorygraph.com/books/865218fd-7742-408d-beac-342ba87002a2) by Cornelia Funke
