@@ -20,6 +20,8 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 
 [...read more!](https://aaronczichon.de/blog)
 
+Github is lately only pushing AI tools. It would be okay if they would improve and fix the main product. Therefore I started move to [Codeberg](https://codeberg.org/aaronczichon) a non-profit alternative to Github.
+
 📖 What I'm currently reading   
 
 
