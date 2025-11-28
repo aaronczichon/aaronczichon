@@ -23,9 +23,10 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 Github is lately only pushing AI tools. It would be okay if they would improve and fix the main product. Therefore I started move to [Codeberg](https://codeberg.org/aaronczichon) a non-profit alternative to Github.
 
 📖 What I'm currently reading   
-- [The Singularity Trap](https://app.thestorygraph.com/books/e210c505-f8f2-4963-a0d2-32d98bf82750) by Dennis E. Taylor
+- [Careless People](https://app.thestorygraph.com/books/f7e3106d-7f4f-4c91-9bf3-e894d9028986) by Sarah Wynn-Williams
 
 📚 What I've read before
+- [The Singularity Trap](https://app.thestorygraph.com/books/e210c505-f8f2-4963-a0d2-32d98bf82750) by Dennis E. Taylor
 - [Reckless #3](https://app.thestorygraph.com/books/865218fd-7742-408d-beac-342ba87002a2) by Cornelia Funke
 - [Reckless #2](https://app.thestorygraph.com/books/02148dc4-ae1f-4573-8501-e00de4c0e67f) by Cornelia Funke
 - [Reckless #1](https://app.thestorygraph.com/books/406757c4-470c-4435-ab17-d1cc44b38d20) by Cornelia Funke
