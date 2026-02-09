@@ -23,9 +23,11 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 Github is lately only pushing AI tools. It would be okay if they would improve and fix the main product. Therefore I started move to [Codeberg](https://codeberg.org/aaronczichon) a non-profit alternative to Github.
 
 📖 What I'm currently reading   
-- [Für Russland ist Europa der Feind](https://app.thestorygraph.com/books/edae6e83-08e9-416e-b85a-f4b804d73983) by Andrey Gurkov
+- [Could Should Might Don't: How We Think About the Future](https://app.thestorygraph.com/books/46d3c514-87c9-45a7-b4b5-7005a46b036e) by Nick Foster
 
 📚 What I've read before
+- [Todesengel](https://app.thestorygraph.com/books/cf612f84-bd75-4464-9062-d990d3e5036d) by Andreas Eschbach
+- [Für Russland ist Europa der Feind](https://app.thestorygraph.com/books/edae6e83-08e9-416e-b85a-f4b804d73983) by Andrey Gurkov
 - [Careless People](https://app.thestorygraph.com/books/f7e3106d-7f4f-4c91-9bf3-e894d9028986) by Sarah Wynn-Williams
 - [The Singularity Trap](https://app.thestorygraph.com/books/e210c505-f8f2-4963-a0d2-32d98bf82750) by Dennis E. Taylor
 - [Reckless #3](https://app.thestorygraph.com/books/865218fd-7742-408d-beac-342ba87002a2) by Cornelia Funke
