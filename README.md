@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 My name is Aaron 😊   
-I'm from Germany 🇩🇪 and lived the last year in Canada 🇨🇦.    
 I work 100% remote and if you're curious where I'm located you can check my [/where](https://aaronczichon.de/where) page.
 
 💻 I'm working at [PlanB. GmbH](https://github.com/planbgmbh) as a Senior Javascript Engineer.    
@@ -22,6 +21,7 @@ I work 100% remote and if you're curious where I'm located you can check my [/wh
 
 Github is lately only pushing AI tools. It would be okay if they would improve and fix the main product. Therefore I started move to [Codeberg](https://codeberg.org/aaronczichon) a non-profit alternative to Github.
 
+<!--
 📖 What I'm currently reading   
 - [Could Should Might Don't: How We Think About the Future](https://app.thestorygraph.com/books/46d3c514-87c9-45a7-b4b5-7005a46b036e) by Nick Foster
 
@@ -36,7 +36,7 @@ Github is lately only pushing AI tools. It would be okay if they would improve a
 - [How will you measure your life?](https://app.thestorygraph.com/books/6aeab04a-7c53-48fa-b8cc-599ce9feb0ed) by Clayton M. Christensen
 - [Not All Dead White Men](https://app.thestorygraph.com/books/ffdeeb47-10a3-4aa9-922b-981567864322) by Donna Zuckerberg
 - [Apartheid in Palestine - Hard Laws and Harder Experiences](https://app.thestorygraph.com/books/7e69f5ab-bca2-4891-b9e7-51af9964d324) by Ghada Ageel
-
+-->
 <!--
 **aaronczichon/aaronczichon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
